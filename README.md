@@ -1,12 +1,7 @@
-# 📚 StudyMate - Your AI-Powered Study Companion
+# 📚 BrainXP - Your AI-Powered Study Companion
 
 > Transform your study sessions with intelligent task management, real-time progress tracking, and AI-powered learning assistance.
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://studymatesite.netlify.app)
-[![GitHub Stars](https://img.shields.io/github/stars/mintahandrews/studymate?style=social)](https://github.com/mintahandrews/studymate)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-![StudyMate Preview](StudyMatePreview.png)
+> ![StudyMate Preview](StudyMatePreview.png)
 
 ## ✨ Features
 
@@ -159,35 +154,3 @@ Modify default timer settings in the respective components:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](licensee.md) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🐛 Bug Reports
-
-If you find a bug, please open an issue with:
-
-- A clear description of the bug
-- Steps to reproduce
-- Expected behavior
-- Screenshots if applicable
-
-## 🙏 Acknowledgments
-
-- Sound effects from [Freesound](https://freesound.org/)
-- Icons from [Lucide](https://lucide.dev/)
-
-## 👨‍💻 Developer
-
-Developed by [codemintah](https://github.com/mintahandrews)
-
----
-
-Made with ❤️ for students everywhere
